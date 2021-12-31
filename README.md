@@ -15,5 +15,8 @@ Manipulação de vinhos: Didática Tech - Youtube
 
 Five Personality Traits: Minerando dados - Youtube
 
-Campeonato Brasileiro: Codlike - Youtube
+Campeonato Brasileiro: Codifike - Youtube
+
+Análise de Ações do mercado financeiro com Python(Projeto Prático) - Stack - Youtube
+
 
