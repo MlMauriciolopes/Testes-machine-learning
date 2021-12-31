@@ -19,4 +19,6 @@ Campeonato Brasileiro: Codifike - Youtube
 
 Análise de Ações do mercado financeiro com Python(Projeto Prático) - Stack - Youtube
 
+Python for algorithmic trading: How to import live stock market data using Yahoo Finance API - Algorithmic Trading by Sajid - Youtube
+
 
