@@ -23,4 +23,8 @@ Python for algorithmic trading: How to import live stock market data using Yahoo
 
 Yahoo finance Tutorial: How to obtain stock market data in python using yfinance package - AB Analytica - Youtube
 
+Python for algorithmic trading: How to import live stock market data using Yahoo Finance API - Algorithmic Trading by Sajid - Youtube
+
+
+
 
